@@ -1,13 +1,13 @@
 # Portfolio SPA - React Project Showcase
 
-## 📌 Project Description
+## Project Description
 This is a Single Page Application (SPA) built using React.  
 It allows users to view, add, and search projects dynamically.  
 The application simulates a personal portfolio platform for showcasing work.
 
 ---
 
-## 🚀 Features
+##  Features
 - Display a list of projects
 - Add new projects dynamically using a form
 - Real-time search/filter functionality
@@ -16,7 +16,7 @@ The application simulates a personal portfolio platform for showcasing work.
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 - React (useState for state management)
 - Vite (build tool)
 - Tailwind CSS (styling)
@@ -24,7 +24,7 @@ The application simulates a personal portfolio platform for showcasing work.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 src/
  ├── components/
  │     ├── Header.jsx
